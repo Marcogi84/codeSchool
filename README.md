@@ -1,2 +1,2 @@
-# codeSchool-Unit1
+# codeSchool
 AngularJS - codeSchool
