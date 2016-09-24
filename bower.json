@@ -1,0 +1,13 @@
+{
+  "name": "code-school",
+  "description": "A starter project for AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Marcogi84/codeSchool",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "jquery": "~3.1.1",
+    "bootstrap": "~3.3.7"
+  }
+}
